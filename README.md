@@ -1,6 +1,6 @@
 # Building A Salary Prediction Web App 
 
-Build a Machine Learning web application from scratch in Python with Streamlit. We use real world data to build a machine learning model. We will first analyze the data and build our model, and then we build the web app using streamlit.
+Build a Machine Learning web application from scratch in Python with Streamlit. I have use real world data to build a machine learning model. I first clean ,analyze the data and build our model, and then build the web app using streamlit.
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 # Data-Set 
